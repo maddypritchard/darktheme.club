@@ -97,6 +97,11 @@
   url: https://forgefed.org
   method: mediaquery
   last_checked: 2022-07-21
+  
+- domain: madelinepritchard.net
+  url: https://madelinepritchard.net/ (Make sure you keep the trailing slash)
+  method: mediaquery
+  last_checked: 2023-02-27
 
 - domain: garrit.xyz
   url: https://garrit.xyz/
